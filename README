@@ -1,0 +1,1 @@
+ZODB3 shim package that allows you packages to depend on ZODB3 but just pull in ZODB.
